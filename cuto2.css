@@ -1,0 +1,58 @@
+* {
+    background-image: url("imgbackground.jpg");
+}
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  background: #ffe6f0;
+  padding: 20px;
+  width: 30%;
+  align-content: center;
+  margin-left: 35%;
+
+  margin-top: 20px;
+}
+
+.title {
+  color: #d63384;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: x-large;
+  letter-spacing: 0.1cap;
+  line-height: 40px;
+}
+.slides p{
+  text-align: left;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: x-large;
+}
+.slides p2{
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: larger;
+
+}
+.slides p3{
+  text-align: center;
+  font-family:ambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  font-size: larger;
+  
+}
+.slides p4{
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: larger;
+  
+}
+
+
+
+
+
+
+
+
+
+
